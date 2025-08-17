@@ -2,6 +2,11 @@
 
 This project implements a sign-up screen based on a Figma design using Kotlin Multiplatform (KMP) and Compose Multiplatform (CMP).
 
+## FigmaInput
+https://www.figma.com/design/tWC3cYnPvWh68HDhVNJRNh/Simple_Singup?node-id=1-209&t=OkbydrQs6RGq69sl-4
+
+ ![Architecture diagram](SimpleSignup.png) 
+
 ## Project Overview
 
 The project demonstrates how to:
