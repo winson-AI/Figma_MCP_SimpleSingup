@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="18dp"
+    android:height="12dp"
+    android:viewportWidth="18"
+    android:viewportHeight="12">
+  <!-- Signal bar 1 (shortest) -->
+  <path
+      android:pathData="M1,8L4,8A1.2,1.2 0,0 1,5.2 9.2L5.2,10.8A1.2,1.2 0,0 1,4 12L1,12A1.2,1.2 0,0 1,-0.2 10.8L-0.2,9.2A1.2,1.2 0,0 1,1 8z"
+      android:fillColor="#1F2024"/>
+  <!-- Signal bar 2 -->
+  <path
+      android:pathData="M6,6L9,6A1.2,1.2 0,0 1,10.2 7.2L10.2,10.8A1.2,1.2 0,0 1,9 12L6,12A1.2,1.2 0,0 1,4.8 10.8L4.8,7.2A1.2,1.2 0,0 1,6 6z"
+      android:fillColor="#1F2024"/>
+  <!-- Signal bar 3 -->
+  <path
+      android:pathData="M11,3.5L14,3.5A1.2,1.2 0,0 1,15.2 4.7L15.2,10.8A1.2,1.2 0,0 1,14 12L11,12A1.2,1.2 0,0 1,9.8 10.8L9.8,4.7A1.2,1.2 0,0 1,11 3.5z"
+      android:fillColor="#1F2024"/>
+  <!-- Signal bar 4 (tallest) -->
+  <path
+      android:pathData="M16,0L19,0A1.2,1.2 0,0 1,20.2 1.2L20.2,10.8A1.2,1.2 0,0 1,19 12L16,12A1.2,1.2 0,0 1,14.8 10.8L14.8,1.2A1.2,1.2 0,0 1,16 0z"
+      android:fillColor="#1F2024"/>
+</vector>
