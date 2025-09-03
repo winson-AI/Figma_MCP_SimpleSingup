@@ -49,6 +49,8 @@ import simplesignup.composeapp.generated.resources.ic_emoji
 import simplesignup.composeapp.generated.resources.ic_microphone
 import simplesignup.composeapp.generated.resources.ic_signal_bars
 import simplesignup.composeapp.generated.resources.ic_wifi
+import simplesignup.composeapp.generated.resources.ic_on
+import simplesignup.composeapp.generated.resources.ic_cancel
 import simplesignup.composeapp.generated.resources.ic_battery
 
 @Composable
@@ -325,8 +327,7 @@ private fun IOSKeyboard(
                         .height(43.dp),
                     backgroundColor = Color.White
                 )
-                
-                Spacer(modifier = Modifier.width(13.dp))
+                Spacer(modifier = Modifier.width(8.dp))
                 
                 // Letters ZXCVBNM
                 KeyboardRow(
@@ -335,8 +336,7 @@ private fun IOSKeyboard(
                     onKeyClick = onKeyClick
                 )
                 
-                Spacer(modifier = Modifier.width(13.dp))
-                
+                Spacer(modifier = Modifier.width(8.dp))
                 // Backspace key
                 KeyboardKey(
                     text = "⌫",
