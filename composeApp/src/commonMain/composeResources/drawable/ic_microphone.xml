@@ -1,29 +1,13 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="24dp"
-    android:height="24dp"
+    android:height="33dp"
     android:viewportWidth="24"
-    android:viewportHeight="24">
-  <!-- Microphone body -->
+    android:viewportHeight="33">
   <path
-      android:pathData="M12,2C10.34,2 9,3.34 9,5v6c0,1.66 1.34,3 3,3s3,-1.34 3,-3V5C15,3.34 13.66,2 12,2z"
-      android:fillColor="#1F2024"/>
-  <!-- Microphone stand -->
+      android:pathData="M11.998,-0.01C9.677,-0.01 7.787,1.874 7.787,4.199V13.945C7.787,16.27 9.672,18.154 11.998,18.154C14.319,18.154 16.209,16.27 16.209,13.945V4.199C16.209,1.874 14.323,-0.01 11.998,-0.01ZM9.592,4.193V13.951C9.592,15.265 10.669,16.349 11.998,16.349C13.336,16.349 14.404,15.275 14.404,13.951V4.193C14.404,2.879 13.327,1.795 11.998,1.795C10.66,1.795 9.592,2.869 9.592,4.193Z"
+      android:fillColor="#494A50"
+      android:fillType="evenOdd"/>
   <path
-      android:pathData="M19,11c0,3.87 -3.13,7 -7,7s-7,-3.13 -7,-7"
-      android:strokeColor="#1F2024"
-      android:strokeWidth="2"
-      android:fillColor="#00000000"
-      android:strokeLineCap="round"/>
-  <!-- Microphone base line -->
-  <path
-      android:pathData="M12,18v4"
-      android:strokeColor="#1F2024"
-      android:strokeWidth="2"
-      android:strokeLineCap="round"/>
-  <!-- Base -->
-  <path
-      android:pathData="M8,22h8"
-      android:strokeColor="#1F2024"
-      android:strokeWidth="2"
-      android:strokeLineCap="round"/>
+      android:pathData="M12.984,23.122V20.605C17.578,20.343 19.547,16.575 19.547,12.893V11.195C19.548,11.182 19.548,11.168 19.547,11.155L19.547,11.135C19.547,10.636 19.14,10.232 18.641,10.232C18.143,10.232 17.749,10.636 17.749,11.135V12.892C17.749,16.574 16.266,19.095 12.066,19.095C8.391,19.095 6.258,16.574 6.258,12.892V11.195C6.258,10.696 5.854,10.292 5.355,10.292C4.857,10.292 4.453,10.696 4.453,11.195V12.893C4.453,16.579 7.078,20.343 11.147,20.605V23.122H7.765C7.273,23.122 6.859,23.526 6.859,24.025C6.859,24.527 7.265,24.927 7.765,24.927H16.266C16.757,24.927 17.184,24.523 17.184,24.025C17.184,23.523 16.766,23.122 16.266,23.122H12.984Z"
+      android:fillColor="#494A50"/>
 </vector>
